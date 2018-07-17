@@ -1,4 +1,24 @@
-# dvfu-2016-summer-practice
+# 2018
+
+Чербаджи Максим, Пысин Юрий. 
+https://github.com/Meromen/JS_Match3_SummerPractice
+
+Казаков Е. Д., Оськина А. О.
+https://github.com/kazakovichna/GamE_AgE_TR2
+
+Балашенко Игорь
+https://github.com/DwarfMason/Dragon-Shore
+
+Ерофеев Артем, Когай Виктор
+https://github.com/ErofeevAA/colorLines/blob/master/index.html
+
+Мельников Антон
+https://github.com/antonmelnikovig/Monopoly
+
+Сергеева Елена, Чепурина Арина, Сим Анастасия
+https://github.com/sergeevaevi/Game
+
+# 2016
 
 * Dots Connection: [game](https://BecauseWeCanStudios.github.io/dots-connect) | [repository](https://github.com/BecauseWeCanStudios/dots-connect)
 * Pipe Game: [game](https://catsupteam.github.io/TopGameEU/) | [repository](https://github.com/CatsUpTeam/TopGameEU)
