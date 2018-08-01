@@ -18,6 +18,9 @@ https://github.com/antonmelnikovig/Monopoly
 Сергеева Елена, Чепурина Арина, Сим Анастасия
 https://github.com/sergeevaevi/Game
 
+Лямаев Михаил
+https://github.com/kenny5660/summer_game_2018
+
 # 2016
 
 * Dots Connection: [game](https://BecauseWeCanStudios.github.io/dots-connect) | [repository](https://github.com/BecauseWeCanStudios/dots-connect)
