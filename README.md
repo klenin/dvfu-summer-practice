@@ -1,25 +1,31 @@
 # 2018
 
+Балашенко Игорь, Курлыков Юрий
+https://github.com/DwarfMason/Dragon-Shore
+
+Гершук Влад, Дзюба Александр, Казацев Андрей
+https://github.com/Andru1999/IWBD
+
+Лямаев Михаил, Юсифзаде Али
+https://github.com/kenny5660/summer_game_2018
+
+Мельников Антон, Русак Диана
+https://github.com/antonmelnikovig/Monopoly
+
 Чербаджи Максим, Пысин Юрий. 
 https://github.com/Meromen/JS_Match3_SummerPractice
-
-Казаков Е. Д., Оськина А. О.
-https://github.com/kazakovichna/GamE_AgE_TR2
-
-Балашенко Игорь
-https://github.com/DwarfMason/Dragon-Shore
 
 Ерофеев Артем, Когай Виктор
 https://github.com/ErofeevAA/colorLines/blob/master/index.html
 
-Мельников Антон
-https://github.com/antonmelnikovig/Monopoly
-
 Сергеева Елена, Чепурина Арина, Сим Анастасия
 https://github.com/sergeevaevi/Game
 
-Лямаев Михаил
-https://github.com/kenny5660/summer_game_2018
+Хачатрян Илья, Константинова Ангелина, Пенюгин Антон
+https://github.com/quiksilver4210/PipeGame
+
+Казаков Е. Д., Оськина А. О.
+https://github.com/kazakovichna/GamE_AgE_TR2
 
 # 2016
 
