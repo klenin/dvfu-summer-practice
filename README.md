@@ -3,6 +3,9 @@
 Лебедев Михаил, Мищук Вероника, Снетков Данила
 https://github.com/micha030201/saboteur
 
+Лебедева Ольга, Гасанова Сабина, Ващенко Светлана
+https://github.com/rammsteinlifada/summer_practice_boardgame
+
 # 2018
 
 Балашенко Игорь, Курлыков Юрий
