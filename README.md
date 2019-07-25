@@ -6,6 +6,9 @@ https://github.com/micha030201/saboteur
 Лебедева Ольга, Гасанова Сабина, Ващенко Светлана
 https://github.com/rammsteinlifada/summer_practice_boardgame
 
+Байдин Антон, Валентина Савченко, Тимофеев Андрей, Игнатьев Максим
+https://github.com/polyndrom/project_td.git
+
 # 2018
 
 Балашенко Игорь, Курлыков Юрий
