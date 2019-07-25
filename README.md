@@ -9,6 +9,9 @@ https://github.com/rammsteinlifada/summer_practice_boardgame
 Байдин Антон, Валентина Савченко, Тимофеев Андрей, Игнатьев Максим
 https://github.com/polyndrom/project_td.git
 
+Маковей Никита, Малашин Максим, Баранов Никита 
+https://github.com/blazzer-band/Warriors-vs-Creeps
+
 # 2018
 
 Балашенко Игорь, Курлыков Юрий
