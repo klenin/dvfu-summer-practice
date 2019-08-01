@@ -12,6 +12,9 @@ https://github.com/polyndrom/project_td.git
 Маковей Никита, Малашин Максим, Баранов Никита 
 https://github.com/blazzer-band/Warriors-vs-Creeps
 
+Шмелёв Виктор, Катков Александр, Базанов Иван, Никифоров Данил
+https://github.com/voktaka01/TurnBaseBR
+
 # 2018
 
 Балашенко Игорь, Курлыков Юрий
